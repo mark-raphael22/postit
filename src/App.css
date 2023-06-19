@@ -1,0 +1,407 @@
+*{
+  
+  font-family: 'Harmattan';
+font-style: normal;
+text-decoration: none !important;
+}
+.btn {
+  width: 150px;
+  height: 40px;
+  left: 172px;
+  top: 400px;
+  color: white;
+  background-color:grey;
+  border-radius: 8px;
+  ;
+}
+.picture{
+  background-image: url("../src/images/Rectangle\ 3.svg");
+  background-size: cover;
+  height: 650px;
+
+
+}
+.sigpi{
+  background-image: url('./images/Section\ 1.svg');
+  background-size: cover;
+  background-size: cover;
+  height: 868px;
+
+}
+.background{
+background-image: url("./images/background.svg");
+background-size: cover;
+height: 250px;
+}
+.dgt{
+  
+}
+.fotmage{
+  width: 1740px;
+ 
+  background: #292929;
+}
+
+.text{
+  font-weight: 700;
+  font-size: 70px;
+}
+.tour{
+
+}
+.textp{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+}
+.textj{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #FFFFFF;
+
+  width: 427px;
+ 
+}
+.top{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+}
+.start{
+  
+font-size: 15px;
+
+
+}
+.pui{
+  height: 92px;
+}
+
+.subscribe{
+  border-radius: 2px;
+  height: 39px;
+  color: #7E7F7F
+}
+.but{
+
+}
+.navb2{
+ height: 32px;
+ width:130px
+}
+.pic{
+  background-image: url('./images/Rectangle\ 3\ \(1\).svg');
+  background-size: cover;
+  height: 580px;
+}
+
+.boder{
+  border-radius: 3px;
+  border: 0.5px solid #BBBBBB;
+  width: 1840px;
+}
+.boders{
+  border-radius: 3px;
+  border: 0.5px solid #BBBBBB;
+ 
+}
+.wel{
+ font-size: 50px;
+ 
+}
+.class{
+  top:90px;
+  padding-right: 40%;
+}
+.font{
+  font-weight: 400;
+  font-size: 20px;
+}
+.tert{
+  font-weight: 500;
+font-size: 28px;
+line-height: 25px;
+font-family: 'Open Sans';
+font-style: normal;
+}
+
+.post >input{
+  width: 340px;
+  height: 39px;
+  background: #fffbfb;
+  border-radius: 8px;
+  font-family: "Harmattan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #6d6d6d;
+  border: none;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+.btn_create {
+  width: 156px;
+  height: 39px;
+  background: #0086b0;
+  border-radius: 0px 8px 8px 0px;
+  border: none;
+  font-family: "Harmattan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #fffbfb;
+}
+
+.lorem{
+ 
+}
+.quickmenu{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 41px;
+}
+.topic{
+  color: #FDFEFF;
+  letter-spacing: -0.02em;
+}
+.pad{
+  padding-right: 7%;
+}
+
+.padi{
+  padding-right: 10%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  
+  letter-spacing: -0.01em;
+}
+ .padir{
+  padding-right: 17%;
+ 
+ 
+ }
+.hr{
+  border: 2px solid #FDFEFF;
+  ;
+}
+.button{
+  height: 26px;
+  left: 128px;
+  top:22px;
+  width: 109px;
+  background: #0086B0;
+
+}
+.poli{
+  left: 1245px;
+
+}
+.title{
+  font-size:21px;
+}
+.title5{
+  font-size:21px;
+  height: 50px;
+
+}
+
+
+.logo{
+  padding-left: 75%;
+}
+.term{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+}
+
+.cont{
+  position: absolute;
+width: 653px;
+height: 872px;
+left: 570px;
+top: 0px;
+background: #FDFEFF;
+background: #FDFEFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.marg{
+  height: 685px;
+ 
+  top: 200px;
+  margin-top: 20%;
+  width: 550px;
+margin-block-start: 20%;
+
+
+}
+.imp {
+  outline:none;
+border: none;
+border-bottom: 2px solid  #727272;;
+}
+.btn2{
+  height: 50px;
+  border-radius: 8px;
+  background-color:#0086B0;
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 690px;
+font-size: 26px;
+}
+.already{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+}
+.join{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+color: #292929;
+
+}
+.enter{
+  
+font-family: 'Harmattan';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+line-height: 34px;
+color: #292929;
+}
+.username{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+}
+.welcome{
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+color:#292929;
+line-height: 60px;
+}
+.btn3{
+  height: 55px;
+  border-radius: 8px;
+  background-color:#0086B0;
+  font-family: 'Harmattan';
+font-style: normal;
+font-weight: 690px;
+font-size: 26px;
+
+}
+
+.log{
+
+
+}
+.scrab{
+padding-right: 40%;
+}
+
+.class{
+  padding-right: 70%;
+}
+.bt1{
+  border-radius: 4px;
+}
+
+.createstory{
+  border-radius: 4px;
+  background-color: #292929;
+  font-size: 22px;
+}
+.line{
+  border: 3px solid;
+color: #6d6d6d;
+}
+.line2{
+  border: 3px solid;
+color: #6d6d6d;
+
+}
+
+.tit{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28.2024px;
+}
+
+.sbtn{
+  border-color: #0086B0;
+  border: none;
+  width: 164.51px;
+  height: 51.7px;
+  background-color: #0086B0;
+border-radius: 8px;    
+
+}
+
+.sbtn2 {
+  align-items: center;
+  border: none;
+  color: white;
+background-color:darkred;
+width: 164.51px;
+  height: 51.7px;
+border-radius: 8px;
+}
+.texts{
+  color: #7B7B7B;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 21.9352px;
+
+
+}
+.border2{
+  border-radius: 4px;
+  border: 1.5px solid #BBBBBB;
+}
+.pst{
+  
+font-family: 'Harmattan';
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+}
+.img3{
+  width: 494px;
+  height: 296px;
+  left: 100px;
+  top: 671px;
+  border-radius: 5px;
+   
+
+}
+
+.img2{
+  border-radius: 10px;
+  height: 940px;
+  object-fit: cover;
+}
+
+
